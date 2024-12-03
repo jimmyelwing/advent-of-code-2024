@@ -1,8 +1,9 @@
+using advent_of_code_2024.Interfaces;
 using advent_of_code_2024.Utils;
 
-namespace advent_of_code_2024.Days.Day1;
+namespace Day1;
 
-public class Solution
+public class Solution : ISolution
 {
     public void Solve()
     {
